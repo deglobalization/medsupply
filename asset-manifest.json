@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/medsupply/static/css/main.ffa8f046.css",
+    "main.js": "/medsupply/static/js/main.b078a142.js",
+    "static/js/453.637f919e.chunk.js": "/medsupply/static/js/453.637f919e.chunk.js",
+    "static/media/evis-x1.jpg": "/medsupply/static/media/evis-x1.da0244523ef3aa82b5a5.jpg",
+    "index.html": "/medsupply/index.html",
+    "main.ffa8f046.css.map": "/medsupply/static/css/main.ffa8f046.css.map",
+    "main.b078a142.js.map": "/medsupply/static/js/main.b078a142.js.map",
+    "453.637f919e.chunk.js.map": "/medsupply/static/js/453.637f919e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa8f046.css",
+    "static/js/main.b078a142.js"
+  ]
+}
